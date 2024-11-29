@@ -14,4 +14,4 @@ cp "$FILE" "$BACKUP_FILE"
 
 echo "Backup of $FILE created at $BACKUP_FILE."
 
-0 6 * * * $0
+# `0 6 * * * $0
